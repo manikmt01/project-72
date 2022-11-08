@@ -1,0 +1,634 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Sedalia Landing Page Final.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1080 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Bebas Neue Bold (Adobe Fonts)
+Colfax Medium (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+FS Albert Arabic Web (OTF)
+FS Albert Arabic Web ExtraBold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/For Her.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 190.671 by 127.141 points 
+Resolution: 891.923 by 891.923 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Wellbeing.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10905K, 2362 by 1576 pixels
+Dimensions: 247.431 by 165.093 points 
+Resolution: 687.32 by 687.32 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Mom&Baby.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10808K, 2362 by 1562 pixels
+Dimensions: 241.293 by 159.568 points 
+Resolution: 704.804 by 704.804 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/Landing Page BG.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 38142K, 4134 by 2362 pixels
+Dimensions: 1937.522 by 5427.021 points 
+Resolution: 153.623 by 31.337 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Betadine.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2442K, 2004 by 312 pixels
+Dimensions: 117.191 by 18.245 points 
+Resolution: 1231.222 by 1231.222 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Beurer.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 115.263 by 57.631 points 
+Resolution: 3747.958 by 3747.958 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/BELLS.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1566K, 1114 by 360 pixels
+Dimensions: 111.538 by 36.045 points 
+Resolution: 719.109 by 719.109 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Batiste.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5434K, 2458 by 566 pixels
+Dimensions: 113.863 by 26.219 points 
+Resolution: 1554.289 by 1554.289 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AUSTRALIAN-BODYCARE.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 114.003 by 57.001 points 
+Resolution: 3789.39 by 3789.39 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AstraZeneca.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1665K, 1280 by 333 pixels
+Dimensions: 118.825 by 30.913 points 
+Resolution: 775.594 by 775.594 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Aptamil.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.624 by 59.312 points 
+Resolution: 3641.763 by 3641.763 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Anubis.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.097 by 59.048 points 
+Resolution: 3658.012 by 3658.012 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AMERIX.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.22 by 59.11 points 
+Resolution: 3654.199 by 3654.199 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AMERICAN-CREATIONS.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 117.286 by 58.643 points 
+Resolution: 3683.314 by 3683.314 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/always.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 119.127 by 59.563 points 
+Resolution: 3626.391 by 3626.391 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Durex.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 36660K, 5000 by 1877 pixels
+Dimensions: 113.291 by 42.53 points 
+Resolution: 3177.644 by 3177.644 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Alfa Vitamins.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 128.093 by 64.047 points 
+Resolution: 3372.538 by 3372.538 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/ACM.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 11108K, 3019 by 942 pixels
+Dimensions: 110.549 by 34.494 points 
+Resolution: 1966.254 by 1966.254 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Gillette.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 23769K, 5000 by 1217 pixels
+Dimensions: 118.078 by 28.74 points 
+Resolution: 3048.82 by 3048.82 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Accu-chek .png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 22148K, 5000 by 1134 pixels
+Dimensions: 114.473 by 25.963 points 
+Resolution: 3144.842 by 3144.842 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Abbott.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1439K, 1200 by 307 pixels
+Dimensions: 112.386 by 28.752 points 
+Resolution: 768.776 by 768.776 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/21st Century.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.937 by 59.468 points 
+Resolution: 3632.181 by 3632.181 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/3M Nexcare.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 117.39 by 58.695 points 
+Resolution: 3680.042 by 3680.042 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/3 Chenes .png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10213K, 2455 by 1065 pixels
+Dimensions: 116.383 by 50.488 points 
+Resolution: 1518.78 by 1518.78 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/iPhone 14 BG.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 38142K, 2362 by 4134 pixels
+Dimensions: 488.524 by 855.021 points 
+Resolution: 348.118 by 348.118 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/Landing Page iPhone-english.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 18462K, 2001 by 2362 pixels
+Dimensions: 937.828 by 1107.021 points 
+Resolution: 153.623 by 153.623 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Kids.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 190.671 by 127.141 points 
+Resolution: 891.923 by 891.923 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Paramedical.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11715K, 2362 by 1693 pixels
+Dimensions: 291.452 by 208.903 points 
+Resolution: 583.506 by 583.506 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Devices.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 266.053 by 177.406 points 
+Resolution: 639.211 by 639.211 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Hygine.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 16394K, 2953 by 1895 pixels
+Dimensions: 293.811 by 188.545 points 
+Resolution: 723.648 by 723.648 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/For Him.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 221.286 by 147.556 points 
+Resolution: 768.524 by 768.524 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Beauty.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10995K, 2953 by 1271 pixels
+Dimensions: 277.593 by 119.479 points 
+Resolution: 765.928 by 765.928 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Medication.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10691K, 2362 by 1545 pixels
+Dimensions: 191.788 by 125.45 points 
+Resolution: 886.729 by 886.729 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Kids.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 190.671 by 127.141 points 
+Resolution: 891.923 by 891.923 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Paramedical.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 11715K, 2362 by 1693 pixels
+Dimensions: 291.452 by 208.903 points 
+Resolution: 583.506 by 583.506 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Devices.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 266.053 by 177.406 points 
+Resolution: 639.211 by 639.211 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Hygine.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 16394K, 2953 by 1895 pixels
+Dimensions: 293.811 by 188.545 points 
+Resolution: 723.648 by 723.648 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/For Him.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 221.286 by 147.556 points 
+Resolution: 768.524 by 768.524 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/For Her.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10898K, 2362 by 1575 pixels
+Dimensions: 190.671 by 127.141 points 
+Resolution: 891.923 by 891.923 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Wellbeing.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10905K, 2362 by 1576 pixels
+Dimensions: 247.431 by 165.093 points 
+Resolution: 687.32 by 687.32 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Mom&Baby.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10808K, 2362 by 1562 pixels
+Dimensions: 241.293 by 159.568 points 
+Resolution: 704.804 by 704.804 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Beauty.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10995K, 2953 by 1271 pixels
+Dimensions: 277.593 by 119.479 points 
+Resolution: 765.928 by 765.928 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/LP Links/Medication.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 10691K, 2362 by 1545 pixels
+Dimensions: 191.788 by 125.45 points 
+Resolution: 886.729 by 886.729 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/Landing Page iPhone-1.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 18462K, 2001 by 2362 pixels
+Dimensions: 937.828 by 1107.021 points 
+Resolution: 153.623 by 153.623 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Betadine.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 2442K, 2004 by 312 pixels
+Dimensions: 117.191 by 18.245 points 
+Resolution: 1231.222 by 1231.222 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Beurer.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 115.263 by 57.631 points 
+Resolution: 3747.958 by 3747.958 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/BELLS.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1566K, 1114 by 360 pixels
+Dimensions: 111.538 by 36.045 points 
+Resolution: 719.109 by 719.109 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Batiste.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5434K, 2458 by 566 pixels
+Dimensions: 113.863 by 26.219 points 
+Resolution: 1554.289 by 1554.289 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AUSTRALIAN-BODYCARE.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 114.003 by 57.001 points 
+Resolution: 3789.39 by 3789.39 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AstraZeneca.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1665K, 1280 by 333 pixels
+Dimensions: 118.825 by 30.913 points 
+Resolution: 775.594 by 775.594 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Aptamil.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.624 by 59.312 points 
+Resolution: 3641.763 by 3641.763 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Anubis.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.097 by 59.048 points 
+Resolution: 3658.012 by 3658.012 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AMERIX.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.22 by 59.11 points 
+Resolution: 3654.199 by 3654.199 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/AMERICAN-CREATIONS.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 117.286 by 58.643 points 
+Resolution: 3683.314 by 3683.314 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/always.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 119.127 by 59.563 points 
+Resolution: 3626.391 by 3626.391 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Durex.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 36660K, 5000 by 1877 pixels
+Dimensions: 113.291 by 42.53 points 
+Resolution: 3177.644 by 3177.644 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Alfa Vitamins.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 128.093 by 64.047 points 
+Resolution: 3372.538 by 3372.538 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/ACM.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 11108K, 3019 by 942 pixels
+Dimensions: 110.549 by 34.494 points 
+Resolution: 1966.254 by 1966.254 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Gillette.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 23769K, 5000 by 1217 pixels
+Dimensions: 118.078 by 28.74 points 
+Resolution: 3048.82 by 3048.82 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Accu-chek .png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 22148K, 5000 by 1134 pixels
+Dimensions: 114.473 by 25.963 points 
+Resolution: 3144.842 by 3144.842 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/Abbott.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 1439K, 1200 by 307 pixels
+Dimensions: 112.386 by 28.752 points 
+Resolution: 768.776 by 768.776 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/21st Century.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 118.937 by 59.468 points 
+Resolution: 3632.181 by 3632.181 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/3M Nexcare.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 70312K, 6000 by 3000 pixels
+Dimensions: 117.39 by 58.695 points 
+Resolution: 3680.042 by 3680.042 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/App Screens and Logos/Logos and not approved screens/Brands Logos/3 Chenes .png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 10213K, 2455 by 1065 pixels
+Dimensions: 116.383 by 50.488 points 
+Resolution: 1518.78 by 1518.78 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/iPhone 14 BG.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 38142K, 2362 by 4134 pixels
+Dimensions: 488.524 by 855.021 points 
+Resolution: 348.118 by 348.118 pixels per inch
+
+
+/Users/monch/Desktop/Monch Media Market/Private Jobs/Sedaila/Landing Page BG.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 38142K, 4134 by 2362 pixels
+Dimensions: 1937.522 by 5427.021 points 
+Resolution: 153.623 by 31.337 pixels per inch
