@@ -395,6 +395,9 @@ footer  end
 /* ----------------------------------------------
 wrapper-arabic   start
 ---------------------------------------------- */
+.wrapper-arabic {
+    font-family: var(--font-FS-Albert-Arabic-Web) !important;
+}
 .wrapper-arabic .banner .right-img img{
     margin: 0 ;
 }
@@ -404,6 +407,16 @@ wrapper-arabic   start
     top: -260px;
     width: 300px;
     left: 0;
+}
+.wrapper-arabic .banner .item-left h1,
+ .wrapper-arabic .Century .box h2,
+ .wrapper-arabic .Century .box h2,
+  .wrapper-arabic .new-app h2,
+  .wrapper-arabic .Partnered .Partnered-top h2,
+   .wrapper-arabic footer .top-footer h2 {
+    font-family: var(--font-FS-Albert-Arabic-Web) !important;
+    font-size: 80px;
+    line-height: 104px;
 }
 .wrapper-arabic .new-app .new-app-inner .item-right p:nth-child(1) {
     min-height: 108px;
@@ -425,6 +438,47 @@ wrapper-arabic   start
     max-width: 849px;
     margin-left: 0px;
 }
+
+.wrapper-arabic .banner .item-left p {
+    font-size: 30px;
+    line-height: 46px;
+}
+.wrapper-arabic .banner .item-left h1 {
+    width: 755px;
+    max-width: 100%;
+}
+.wrapper-arabic .Century .box {
+    width: 1260px;
+    max-width: 100%;
+}
+.wrapper-arabic .Century .box p {
+    font-size: 30px;
+    line-height: 46px;
+}
+.wrapper-arabic .Century .img-content a {
+    width: 100%;
+    max-width: 100%;
+}
+.wrapper-arabic .Century .img-content a img {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.wrapper-arabic .Century .img-content a h4 {
+    font-size: 25px;
+    line-height: 46px;
+}
+.wrapper-arabic .new-app .new-app-inner .item-right p {
+    font-size: 30px;
+    line-height: 42px;
+}
+.wrapper-arabic .new-app .new-app-inner .item-left p {
+    font-size: 30px;
+    line-height: 42px;
+    text-align: left;
+}
+.wrapper-arabic {}
+.wrapper-arabic {}
 /* ----------------------------------------------
 wrapper-arabic   end
 ---------------------------------------------- */
